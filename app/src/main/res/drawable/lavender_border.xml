@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle"> <!-- Rechteck Form -->
+    <stroke
+        android:width="2dp"
+        android:color="@color/lavender"/> <!-- Dicke und Farbe des Randes -->
+    <corners
+        android:radius="30dp"/> <!-- Radius der Ecken -->
+</shape>
